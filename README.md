@@ -61,9 +61,13 @@ cd backend
 # Install dependencies
 npm install
 
-# Create .env file and add the following variables:
+# Create .env file from example
+cp .env.example .env
+
+# Edit .env file and add your configuration:
 # MONGODB_URI=your_mongodb_connection_string
 # JWT_SECRET=your_jwt_secret_key
+# PORT=4000
 
 # Start the backend server
 npm run server
