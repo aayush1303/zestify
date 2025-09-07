@@ -82,7 +82,3 @@ build/
 # Temporary folders
 tmp/
 temp/
-
-# Uploads
-uploads/*
-!uploads/.gitkeep
