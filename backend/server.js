@@ -13,7 +13,7 @@ const port = 4000;
 //middleware
 app.use(express.json());
 app.use(cors({
-  origin: ['http://localhost:5173'] 
+  origin: ['https://zestify-frontend.vercel.app'] 
 }));
 
 //db connection
