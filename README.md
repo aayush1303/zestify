@@ -1,4 +1,4 @@
-# Gusto - E-Commerce Web Application
+# Zestify - E-Commerce Web Application
 
 A full-stack e-commerce web application built with React and Node.js, featuring user authentication, product management, and shopping cart functionality.
 
